@@ -12,6 +12,9 @@ Payment can be amomgst others either by credit card or cash, with the system ret
 - Customers can update password and can change the delivery address.
 - Friendly user interface with JavaFX
 
+## UML Class Diagram
+https://cloud.smartdraw.com/share.aspx/?pubDocShare=42B901F84B4D6E2E16D895A465CA3A9AAAE
+
 ## Technologies
 - [Java](https://go.java/index.html) - widely used object-oriented language, the core of our system
 - [JavaFX](https://docs.oracle.com/javafx/2/overview/jfxpub-overview.htm) - Java user interface library
