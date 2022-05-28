@@ -1,8 +1,8 @@
 # Online-Food-Ordering-System
 
 ## Project Description
-Online food ordering system is a web-based application. By using this application theregistered user can access the account with valid credentials. 
-User can choose the food itemsaccording to categories, place order and online payment options are available to user. User cantrack their orders with the food details.  
+Online food ordering system is a web-based application. By using this application the registered user can access the account with valid credentials. 
+User can choose the food items according to categories, place order and online payment options are available to user. User cantrack their orders with the food details.  
 
 ## Features
 - Authentication system guarding the app core.
