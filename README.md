@@ -13,7 +13,8 @@ Payment can be amomgst others either by credit card or cash, with the system ret
 - Friendly user interface with JavaFX
 
 ## UML Class Diagram
-https://cloud.smartdraw.com/share.aspx/?pubDocShare=42B901F84B4D6E2E16D895A465CA3A9AAAE
+![Screen Shot 2022-05-28 at 5 18 16 PM](https://user-images.githubusercontent.com/100465648/170819211-d1cdbac4-cffe-495d-b2c5-71e20b240eac.png)
+
 
 ## Technologies
 - [Java](https://go.java/index.html) - widely used object-oriented language, the core of our system
