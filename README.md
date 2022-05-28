@@ -20,3 +20,4 @@ Payment can be amomgst others either by credit card or cash, with the system ret
 ## Screenshots
 ![Screen Shot 2022-05-28 at 4 38 10 PM](https://user-images.githubusercontent.com/100465648/170817953-e3c85564-f9fc-43ea-a615-9dcbc8e0d1fe.png)
 ![Screen Shot 2022-05-28 at 4 41 06 PM](https://user-images.githubusercontent.com/100465648/170818084-ec1cbefa-db47-469b-8588-372035926709.png)
+![Screen Shot 2022-05-28 at 4 46 44 PM](https://user-images.githubusercontent.com/100465648/170818277-ab767fe1-142b-4782-84f7-5a84da758547.png)
