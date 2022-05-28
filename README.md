@@ -16,3 +16,7 @@ Payment can be amomgst others either by credit card or cash, with the system ret
 - [Netbeans IDE 8.2](http://netbeans.apache.org/download)
 - [XAMPP](https://www.apachefriends.org/download.html)
 - [Scene Builder](https://gluonhq.com/products/scene-builder)
+
+## Screenshots
+![Screen Shot 2022-05-28 at 4 38 10 PM](https://user-images.githubusercontent.com/100465648/170817953-e3c85564-f9fc-43ea-a615-9dcbc8e0d1fe.png)
+![Screen Shot 2022-05-28 at 4 41 06 PM](https://user-images.githubusercontent.com/100465648/170818084-ec1cbefa-db47-469b-8588-372035926709.png)
